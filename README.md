@@ -13,7 +13,12 @@ Fruits are sources of many essential nutrients, including potassium dietary fibe
 * Create a Settings view
 * Add Icons to the App
 
-## Screenshots
+## Screenshots
+![screenshot1](Art/s1.PNG)
+![screenshot2](Art/s2.PNG)
+![screenshot3](Art/s3.PNG)
+![screenshot4](Art/s4.PNG)
+
 
 
 
